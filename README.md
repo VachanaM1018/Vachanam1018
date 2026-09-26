@@ -26,3 +26,4 @@
 *Tools*
 - Git & GitHub
 - Postman (API Testing)
+![Profile views](https://komarev.com/ghpvc/?username=VachanaM1018&color=blue)
