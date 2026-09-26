@@ -1,16 +1,28 @@
-## Hi there 👋
+                                               Hi 👋, I'm Vachana M
 
-<!--
-**VachanaM1018/Vachanam1018** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🚀 Java Full Stack Developer | Spring Boot & REST APIs | 2026 ECE Graduate transitioning into software development
 
-Here are some ideas to get you started:
+- 🌱 *Currently focused on:* Java, Spring Boot, Spring MVC, Spring Data JPA, REST API development
+- 💡 *Interested in:* Backend development, secure APIs, full-stack web applications
+- 🛠️ *Projects:* Building real-world apps including an Employee Management System (Spring Boot + Auth + OTP verification)
+- 📫 *How to reach me:* vachanam2003@gmail.com
+- 🔗 *LinkedIn:* https://www.linkedin.com/in/vachana-m-49809927b
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🛠️ Skills & Technologies
+
+*Languages & Backend*
+- Java (Core & Advanced)
+- Spring Framework (Spring Boot, Spring MVC, Spring Data JPA, Spring Security)
+- REST APIs
+
+*Frontend*
+- HTML5
+- CSS3
+- JavaScript
+
+*Databases*
+- MySQL
+
+*Tools*
+- Git & GitHub
+- Postman (API Testing)
